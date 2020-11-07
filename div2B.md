@@ -9,7 +9,7 @@
 | 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 | ✅ |
 | 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 |  |
 | 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 |  |
-| 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 |  |
+| 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 | ✅ |
 | 11 | [Nauuo and Chess](https://codeforces.com/problemset/problem/1173/B) | 1100 |  |
 | 12 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B) | 1100 |  |
 | 13 | [Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B) | 1100 |  |
