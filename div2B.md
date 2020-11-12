@@ -20,7 +20,7 @@
 | 18 | [Pair of Toys](https://codeforces.com/problemset/problem/1023/B) | 1100 | ✅ |
 | 19 | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1100 |  |
 | 20 | [Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) | 1100 |  |
-| 21 | [Polycarp and Letters](https://codeforces.com/problemset/problem/864/B) | 1100 |  |
+| 21 | [Polycarp and Letters](https://codeforces.com/problemset/problem/864/B) | 1100 | ✅ |
 | 22 | [Chocolates](https://codeforces.com/problemset/problem/1139/B) | 1100 |  |
 | 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 |  |
 | 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 |  |
