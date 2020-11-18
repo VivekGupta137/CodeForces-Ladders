@@ -31,7 +31,7 @@
 | 29 | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | 1200 |  |
 | 30 | [Blown Garland](https://codeforces.com/problemset/problem/758/B) | 1200 | ✅ |
 | 31 | [Godsend](https://codeforces.com/problemset/problem/841/B) | 1200 |  |
-| 32 | [Planning The Expedition](https://codeforces.com/problemset/problem/1011/B) | 1200 |  |
+| 32 | [Planning The Expedition](https://codeforces.com/problemset/problem/1011/B) | 1200 | ✅ |
 | 33 | [LCM](https://codeforces.com/problemset/problem/1068/B) | 1200 |  |
 | 34 | [Mancala](https://codeforces.com/problemset/problem/975/B) | 1200 |  |
 | 35 | [High School: Become Human](https://codeforces.com/problemset/problem/987/B) | 1200 |  |
