@@ -39,8 +39,8 @@
 | 37 | [Chloe and the sequence ](https://codeforces.com/problemset/problem/743/B) | 1200 |  |
 | 38 | [Wrath](https://codeforces.com/problemset/problem/892/B) | 1200 | ✅ |
 | 39 | [Kvass and the Fair Nut](https://codeforces.com/problemset/problem/1084/B) | 1200 |  |
-| 40 | [Draw!](https://codeforces.com/problemset/problem/1131/B) | 1300 |  |
-| 41 | [Filling the Grid](https://codeforces.com/problemset/problem/1228/B) | 1300 |  |
+| 40 | [Draw!](https://codeforces.com/problemset/problem/1131/B) | 1300 | ✅ |
+| 41 | [Filling the Grid](https://codeforces.com/problemset/problem/1228/B) | 1300 | ❌ |
 | 42 | [Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B) | 1300 |  |
 | 43 | [Messages](https://codeforces.com/problemset/problem/964/B) | 1300 |  |
 | 44 | [Summer sell-off](https://codeforces.com/problemset/problem/810/B) | 1300 |  |
