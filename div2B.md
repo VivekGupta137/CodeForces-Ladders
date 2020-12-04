@@ -50,7 +50,7 @@
 | 48 | [A Tide of Riverscape](https://codeforces.com/problemset/problem/989/B) | 1300 |  |
 | 49 | [Cutting Carrot](https://codeforces.com/problemset/problem/794/B) | 1300 | ✅ |
 | 50 | [Segments](https://codeforces.com/problemset/problem/909/B) | 1300 |  |
-| 51 | [Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B) | 1300 |  |
+| 51 | [Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B) | 1300 | ✅ |
 | 52 | [Mike and strings](https://codeforces.com/problemset/problem/798/B) | 1300 |  |
 | 53 | [Position in Fraction](https://codeforces.com/problemset/problem/900/B) | 1300 |  |
 | 54 | [World Cup](https://codeforces.com/problemset/problem/996/B) | 1300 |  |
