@@ -52,7 +52,7 @@
 | 50 | [Segments](https://codeforces.com/problemset/problem/909/B) | 1300 |  |
 | 51 | [Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B) | 1300 | ✅ |
 | 52 | [Mike and strings](https://codeforces.com/problemset/problem/798/B) | 1300 |  |
-| 53 | [Position in Fraction](https://codeforces.com/problemset/problem/900/B) | 1300 |  |
+| 53 | [Position in Fraction](https://codeforces.com/problemset/problem/900/B) | 1300 | ✅ |
 | 54 | [World Cup](https://codeforces.com/problemset/problem/996/B) | 1300 |  |
 | 55 | [Cubes for Masha](https://codeforces.com/problemset/problem/887/B) | 1300 |  |
 | 56 | [Divisiblity of Differences](https://codeforces.com/problemset/problem/876/B) | 1300 |  |
