@@ -60,7 +60,7 @@
 | 58 | [Chtholly's request](https://codeforces.com/problemset/problem/897/B) | 1300 |  |
 | 59 | [An express train to reveries](https://codeforces.com/problemset/problem/814/B) | 1300 | ✅ |
 | 60 | [Parallelogram is Back](https://codeforces.com/problemset/problem/749/B) | 1300 |  |
-| 61 | [Dasha and friends](https://codeforces.com/problemset/problem/761/B) | 1300 |  |
+| 61 | [Dasha and friends](https://codeforces.com/problemset/problem/761/B) | 1300 | ✅ |
 | 62 | [Build a Contest](https://codeforces.com/problemset/problem/1100/B) | 1300 |  |
 | 63 | [Table Tennis](https://codeforces.com/problemset/problem/879/B) | 1300 |  |
 | 64 | [Koala and Lights](https://codeforces.com/problemset/problem/1209/B) | 1300 |  |
