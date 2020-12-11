@@ -62,7 +62,7 @@
 | 60 | [Parallelogram is Back](https://codeforces.com/problemset/problem/749/B) | 1300 |  |
 | 61 | [Dasha and friends](https://codeforces.com/problemset/problem/761/B) | 1300 | ✅ |
 | 62 | [Build a Contest](https://codeforces.com/problemset/problem/1100/B) | 1300 |  |
-| 63 | [Table Tennis](https://codeforces.com/problemset/problem/879/B) | 1300 |  |
+| 63 | [Table Tennis](https://codeforces.com/problemset/problem/879/B) | 1300 | ✅ |
 | 64 | [Koala and Lights](https://codeforces.com/problemset/problem/1209/B) | 1300 |  |
 | 65 | [Battleship](https://codeforces.com/problemset/problem/965/B) | 1300 |  |
 | 66 | [Game of Credit Cards](https://codeforces.com/problemset/problem/777/B) | 1300 |  |
