@@ -67,7 +67,7 @@
 | 65 | [Battleship](https://codeforces.com/problemset/problem/965/B) | 1300 | ✅ |
 | 66 | [Game of Credit Cards](https://codeforces.com/problemset/problem/777/B) | 1300 | ✅ |
 | 67 | [Mister B and Angle in Polygon](https://codeforces.com/problemset/problem/820/B) | 1300 |  |
-| 68 | [Tic-Tac-Toe](https://codeforces.com/problemset/problem/907/B) | 1400 |  |
+| 68 | [Tic-Tac-Toe](https://codeforces.com/problemset/problem/907/B) | 1400 | ✅ |
 | 69 | [T-shirt buying](https://codeforces.com/problemset/problem/799/B) | 1400 |  |
 | 70 | [Not simply beatiful strings](https://codeforces.com/problemset/problem/955/B) | 1400 |  |
 | 71 | [Hongcow Solves A Puzzle](https://codeforces.com/problemset/problem/745/B) | 1400 |  |
