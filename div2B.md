@@ -75,7 +75,7 @@
 | 73 | [Alice and the List of Presents](https://codeforces.com/problemset/problem/1236/B) | 1400 |  |
 | 74 | [Karen and Coffee](https://codeforces.com/problemset/problem/816/B) | 1400 | ✅ |
 | 75 | [Double Matrix](https://codeforces.com/problemset/problem/1162/B) | 1400 |  |
-| 76 | [Silly Mistake](https://codeforces.com/problemset/problem/1253/B) | 1400 |  |
+| 76 | [Silly Mistake](https://codeforces.com/problemset/problem/1253/B) | 1400 | ✅ |
 | 77 | [Bash's Big Day](https://codeforces.com/problemset/problem/757/B) | 1400 |  |
 | 78 | [PIN Codes](https://codeforces.com/problemset/problem/1263/B) | 1400 |  |
 | 79 | [Uniqueness](https://codeforces.com/problemset/problem/1208/B) | 1500 |  |
