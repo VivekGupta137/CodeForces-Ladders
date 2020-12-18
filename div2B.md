@@ -73,7 +73,7 @@
 | 71 | [Hongcow Solves A Puzzle](https://codeforces.com/problemset/problem/745/B) | 1400 |  |
 | 72 | [Sonya and Exhibition](https://codeforces.com/problemset/problem/1004/B) | 1400 | ✅ |
 | 73 | [Alice and the List of Presents](https://codeforces.com/problemset/problem/1236/B) | 1400 |  |
-| 74 | [Karen and Coffee](https://codeforces.com/problemset/problem/816/B) | 1400 |  |
+| 74 | [Karen and Coffee](https://codeforces.com/problemset/problem/816/B) | 1400 | ✅ |
 | 75 | [Double Matrix](https://codeforces.com/problemset/problem/1162/B) | 1400 |  |
 | 76 | [Silly Mistake](https://codeforces.com/problemset/problem/1253/B) | 1400 |  |
 | 77 | [Bash's Big Day](https://codeforces.com/problemset/problem/757/B) | 1400 |  |
