@@ -77,7 +77,7 @@
 | 75 | [Double Matrix](https://codeforces.com/problemset/problem/1162/B) | 1400 |  |
 | 76 | [Silly Mistake](https://codeforces.com/problemset/problem/1253/B) | 1400 | ✅ |
 | 77 | [Bash's Big Day](https://codeforces.com/problemset/problem/757/B) | 1400 |  |
-| 78 | [PIN Codes](https://codeforces.com/problemset/problem/1263/B) | 1400 |  |
+| 78 | [PIN Codes](https://codeforces.com/problemset/problem/1263/B) | 1400 | ✅ |
 | 79 | [Uniqueness](https://codeforces.com/problemset/problem/1208/B) | 1500 |  |
 | 80 | [Yet Another Array Partitioning Task](https://codeforces.com/problemset/problem/1114/B) | 1500 |  |
 | 81 | [Azamon Web Services](https://codeforces.com/problemset/problem/1281/B) | 1500 |  |
