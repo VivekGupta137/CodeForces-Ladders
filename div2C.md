@@ -6,7 +6,7 @@
 | 4 | [Dishonest Sellers](https://codeforces.com/problemset/problem/779/C) | 1200 |  |
 | 5 | [Birthday](https://codeforces.com/problemset/problem/1131/C) | 1200 |  |
 | 6 | [Dividing the numbers](https://codeforces.com/problemset/problem/899/C) | 1300 |  |
-| 7 | [Postcard](https://codeforces.com/problemset/problem/1099/C) | 1300 |  |
+| 7 | [Postcard](https://codeforces.com/problemset/problem/1099/C) | 1300 | -/ |
 | 8 | [Substring Game in the Lesson](https://codeforces.com/problemset/problem/1220/C) | 1300 |  |
 | 9 | [Labs](https://codeforces.com/problemset/problem/1236/C) | 1300 |  |
 | 10 | [Seat Arrangements](https://codeforces.com/problemset/problem/919/C) | 1300 |  |
